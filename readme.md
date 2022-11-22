@@ -1,8 +1,9 @@
 # 🏄‍♂️ Dobricean Ioan Dorian
 
-**`Programmer & Student (CS Student/Web Developer)`**
+**`Programmer & Student (CS Student/Web Developer/Plone Contributor)`** 
 
 I'm an Web Developer and Computer Science Student, passionate about informatics & programing. I am always looking for challenges, and trying to solve them. Right now, I am trying to combine Work Life, University Studies and personal life in 24 hours a day. I also enjoy Algorithmics and Mathematics as I went to olympiads, back in highschool.
+
 
 ---
 
@@ -24,7 +25,7 @@ I'm an Web Developer and Computer Science Student, passionate about informatics 
 
 #
 
-### 📺 Latest YouTube Videos
+
 
 ### 📊 Jobs & Projects
 
