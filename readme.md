@@ -36,3 +36,14 @@ I'm an Web Developer and Computer Science Student, passionate about informatics 
  <h4>Position: Junior Web Developer</h4>
   <h5>🕒 Full Time Job </h5>
   I am working full-time at EAU DE WEB, where I am developing software for the European Environment Agency using React and Python. Also, I am working with Volto, which is a CMS frontend from the Plone CMS Open Source community. This means, that I am contributing open source, by modifying Volto or extending it.
+ 
+ <summary><h3>Plone Contributor</h3></summary>
+ <h4>Position: Web Developer Contributor</h4>
+  I am contributing to Plone Open Source CMS, via my Job,  by fixing bugs or extend the functionalities. I am also happy to help others that want to learn the Plone ecosystem with my limited knowledge about it.
+ 
+ <summary><h3>Plone Contributor</h3></summary>
+ <h4>Freelancer & Side Projects Work</h4>
+  To time to time, I like to help people with software, so I created the Uclass organization which is making software on demand, it's a really small think, but hopefully can grow.
+ One Exemple of a side project is a management system for a school. This can be found at: https://maniera-managment-app-develop.vercel.app/ The password is develop
+ 
+ 
