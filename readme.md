@@ -25,6 +25,10 @@ I'm an Web Developer and Computer Science Student, passionate about informatics 
 
 <br />
 
+<br />
+
+#
+
 ### 📊 Jobs & Projects
 
 <details>
