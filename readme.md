@@ -12,6 +12,8 @@ I'm an Web Developer and Computer Science Student, passionate about informatics 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -23,11 +25,10 @@ I'm an Web Developer and Computer Science Student, passionate about informatics 
 
 <br />
 
-#
-
-
-
 ### 📊 Jobs & Projects
 
 <details>
  <summary><h3>EAU DE WEB</h3></summary>
+ <h4>Position: Junior Web Developer</h4>
+  <h5>🕒 Full Time Job </h5>
+  I am working full-time at EAU DE WEB, where I am developing software for the European Environment Agency using React and Python. Also, I am working with Volto, which is a CMS frontend from the Plone CMS Open Source community. This means, that I am contributing open source, by modifying Volto or extending it.
