@@ -2,7 +2,10 @@
 
 **`Programmer & Student (CS Student/Web Developer/Plone Contributor)`** 
 
-I'm an Web Developer and Computer Science Student, passionate about informatics & programing. I am always looking for challenges, and trying to solve them. Right now, I am trying to combine Work Life, University Studies and personal life in 24 hours a day. I also enjoy Algorithmics and Mathematics as I went to olympiads, back in highschool.
+
+I'm a Web Developer and Computer Science Student, passionate about informatics & programming. I am always looking for challenges and trying to solve them. Right now, I am trying to combine Work Life, University Studies and personal life 24 hours a day. I also enjoy Algorithmics and Mathematics, as I attended olympiads in high school.
+
+
 
 
 ---
